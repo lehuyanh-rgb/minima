@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "This post demonstrates post content styles"
+title: "Cách thiết kế một trang web"
 categories: junk
 author:
 - Bart Simpson
